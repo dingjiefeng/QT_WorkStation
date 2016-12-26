@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bomb.png</file>
+        <file>redFlag.png</file>
+        <file>block.png</file>
+        <file>block_none.png</file>
+        <file>数字0.png</file>
+        <file>数字1.png</file>
+        <file>数字2.png</file>
+        <file>数字3.png</file>
+        <file>数字4.png</file>
+        <file>数字5.png</file>
+        <file>数字6.png</file>
+        <file>数字7.png</file>
+        <file>数字8.png</file>
+        <file>数字9.png</file>
+        <file>cry.png</file>
+        <file>smile.png</file>
+        <file>block_double.png</file>
+        <file>clock.png</file>
+    </qresource>
+</RCC>
